@@ -21,7 +21,6 @@ h2{
     font-family: "Fredoka", sans-serif;
     color: #DF6CA8;
     font-size: 20px;
-    
 }
 
 h3{
@@ -70,15 +69,13 @@ a img{
 }
 
 .infoa{
-    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
-                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
     padding: 5px;
     margin: 5px;
     border-radius: 10px;
     font-size: 25px;
     font-family: "Dancing Script", cursive;
     font-weight: bold;
-    color: white;
+    color: #DF6CA8;
 }
 
 .wame{
