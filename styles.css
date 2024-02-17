@@ -1,0 +1,93 @@
+body{
+background-image: url('descarga.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el contenedor */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen en el contenedor */
+}
+*{
+    text-align: center;
+    text-decoration: none;
+}
+
+h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 45px;
+    color:#C1A047;
+    
+
+}
+
+h2{
+    font-family: "Fredoka", sans-serif;
+    color: #DF6CA8;
+    font-size: 20px;
+    
+}
+
+h3{
+    font-family: "Dancing Script", cursive;
+    font-size: 25px;
+    margin: 10px;
+    color: #515151;
+}
+
+h4{
+    font-family: "Fredoka", sans-serif;
+    font-size: 20px;
+    color: #C1A047;
+}
+
+a{
+    background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+    color: white;
+    height: 80px;
+
+}
+
+a img{
+    width: 45px;
+    height: 45px;
+    transform: translateY(12px);
+}
+
+.fer{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    border-color: white;
+}
+
+.info{
+    margin-top: 50px;
+}
+
+.infoa{
+    background-color: #6dd6b5;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+    color: white;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    
+
+
+
+
+
+  }
